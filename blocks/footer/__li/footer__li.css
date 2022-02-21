@@ -1,0 +1,7 @@
+.footer__li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+.footer__li:nth-of-type(3) {
+    padding: 0;
+}
