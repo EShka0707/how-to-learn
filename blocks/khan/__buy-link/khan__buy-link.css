@@ -5,3 +5,6 @@
     color: #2F80ED;
     text-decoration: none;
 }
+.khan__buy-link:hover {
+  color: blue;
+}
