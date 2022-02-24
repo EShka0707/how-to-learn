@@ -6,5 +6,5 @@
     font-weight: normal;
 }
 .footer__column-link:hover {
-  color: blue;
+  opacity: 0.5;
 }

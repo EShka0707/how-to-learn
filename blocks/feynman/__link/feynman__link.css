@@ -9,5 +9,5 @@
     top: 50%;
 }
 .feynman__link:hover{
-  color: blue;
+  opacity: 0.5;
 }

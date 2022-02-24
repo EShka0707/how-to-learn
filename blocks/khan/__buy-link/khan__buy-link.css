@@ -6,5 +6,5 @@
     text-decoration: none;
 }
 .khan__buy-link:hover {
-  color: blue;
+  opacity: 0.5;
 }
